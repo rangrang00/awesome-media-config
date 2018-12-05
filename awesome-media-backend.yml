@@ -6,7 +6,7 @@ management:
     enabled: false    
 
 promotion: action
-name : rangrang
+
 spring:
   application:
     name: awesome-media-backend
@@ -20,4 +20,5 @@ spring:
   h2:
     console:
       enabled: true
+name : rangrang      
     
